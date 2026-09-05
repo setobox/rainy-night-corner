@@ -1,6 +1,16 @@
 # こよいマート · 雨夜街角
 
-一个无界面覆盖的日式便利店雨夜微缩景观。React 19、React Three Fiber 9、Drei 10、Three.js、TypeScript strict、Vite 8。
+<p align="center">
+  <img src="screenshots/screenshot.png" alt="こよいマート雨夜街角截图" width="960">
+</p>
+
+<p align="center">
+  一个无界面覆盖的日式便利店雨夜微缩景观
+</p>
+
+<p align="center">
+  React 19 · React Three Fiber 9 · Drei 10 · Three.js · TypeScript strict · Vite 8
+</p>
 
 ## 运行
 
