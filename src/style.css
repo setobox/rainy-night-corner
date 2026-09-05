@@ -1,0 +1,6 @@
+* { box-sizing: border-box; }
+html, body, #root { width: 100%; height: 100%; margin: 0; overflow: hidden; }
+body { background: #141e32; }
+canvas { display: block; touch-action: none; outline: none; }
+.scene { position: fixed; inset: 0; cursor: grab; }
+.scene:active { cursor: grabbing; }
